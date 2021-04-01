@@ -23,10 +23,10 @@
     <dependencies>  
     <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
         <dependency>
-            <groupId>org.junit.jupiter</groupId>
+                <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
-            <version>5.7.1</version>
-            <scope>test</scope>
+                <version>5.7.1</version>
+                <scope>test</scope>
         </dependency>
     </dependencies>
 </project>

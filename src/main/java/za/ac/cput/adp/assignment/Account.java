@@ -7,7 +7,7 @@ package za.ac.cput.adp.assignment;
 
 /**
  *
- * @author Julian
+ * @author Jayden
  */
 public class Account {
     private String id, name, accountType;
@@ -40,4 +40,5 @@ public class Account {
     public String toString(){
         return "Account{" + "id=" + id + "name=" + name + "accountType=" + accountType + '}';
     }
+
 }

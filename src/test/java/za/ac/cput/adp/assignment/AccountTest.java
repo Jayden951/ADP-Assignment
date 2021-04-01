@@ -22,6 +22,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class AccountTest {
     
+
     private Account account1;
     private Account account2;
     private Account account3;
@@ -77,5 +78,6 @@ public class AccountTest {
     void testTimeout () {
         assertEquals(account1, account3);
     }
+
 }
 
